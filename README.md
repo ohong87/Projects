@@ -1,5 +1,5 @@
 # Projects
-Some projects that I've worked on over the years:
+Some projects that I've worked on:
 
 ### A* Search
 Created a d-ary min heap to implement A* search algorithm to beat Doublets, a word game where you transform a starting word to an end word, one character at a time
