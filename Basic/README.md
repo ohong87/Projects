@@ -1,0 +1,1 @@
+To compile the code, type "make" into the command line

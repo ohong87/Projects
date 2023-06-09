@@ -1,0 +1,1 @@
+To run program, enter "Make" into the terminal
