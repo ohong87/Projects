@@ -11,6 +11,6 @@ DIV: Divides a variable by a value.\
 GOTO: Jumps to a specific line number in the program.\
 IF: Performs a conditional jump based on a comparison.\
 GOSUB: Jumps to a specific line number and remembers the current line number to return to.\
-RETURN: Returns from a GOSUB statement.\
+RETURN: Returns from a GOSUB statement.
 
 These functions allow for basic arithmetic operations, variable assignment, conditional branching, and subroutine calls.
