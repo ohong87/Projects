@@ -1,1 +1,1 @@
-To run program, enter "Make" into the terminal
+Program to use RSA encryption to encrypt and decrypt text files
