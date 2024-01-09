@@ -1,5 +1,5 @@
 # Projects
-Some projects that I've worked on:
+Some projects that I've worked on to practice my understanding of fundamental CS concepts:
 
 ### A* Search
 Created a d-ary min heap to implement A* search algorithm to beat Doublets, a word game where you transform a starting word to an end word, one character at a time
